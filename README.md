@@ -1,1 +1,1 @@
-# stock-watcher
+# stock-quote-alert

@@ -1,0 +1,15 @@
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/bin/Debug/net9.0/StockAlertMonitor
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/bin/Debug/net9.0/StockAlertMonitor.deps.json
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/bin/Debug/net9.0/StockAlertMonitor.runtimeconfig.json
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/bin/Debug/net9.0/StockAlertMonitor.dll
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/bin/Debug/net9.0/StockAlertMonitor.pdb
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/StockAlertMonitor.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/StockAlertMonitor.AssemblyInfoInputs.cache
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/StockAlertMonitor.AssemblyInfo.cs
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/StockAlertMonitor.csproj.CoreCompileInputs.cache
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/StockAlertMonitor.sourcelink.json
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/StockAlertMonitor.dll
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/refint/StockAlertMonitor.dll
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/StockAlertMonitor.pdb
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/StockAlertMonitor.genruntimeconfig.cache
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/ref/StockAlertMonitor.dll
