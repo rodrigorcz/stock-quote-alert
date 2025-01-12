@@ -12,11 +12,15 @@ class Program{
 
         var config = Configuration.LoadConfigurations(configPath);
 
-        Console.WriteLine("\nTestando leitura de dados:");
-        Console.WriteLine(config.email);
+
+        Console.WriteLine("\nTestando leitura de dados:\n");
+        Console.WriteLine(config.emailDestination);
         Console.WriteLine(config.smtpServer);
         Console.WriteLine(config.smtpPort);
         Console.WriteLine(config.smtpUser);
         Console.WriteLine(config.smtpPassword);
+
+        Email.SendEmail(config, "Body", "Subject");
+
     }
 }

@@ -3,7 +3,7 @@ using System.Text.Json;
 
 public class Configuration{
     
-    public string email { get; set; }
+    public string emailDestination { get; set; }
     public string smtpServer { get; set; }
     public int smtpPort { get; set; }
     public string smtpUser { get; set; }
