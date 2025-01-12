@@ -5,7 +5,7 @@ class Program{
     static void Main(string[] args){
 
         string configPath = "config.json";
-        if (!File.Exists(configPath)){
+        if(!File.Exists(configPath)){
             Console.WriteLine("Arquivo JSON nao encontrado!");
             return;
         }
@@ -19,8 +19,9 @@ class Program{
         Console.WriteLine(config.smtpPort);
         Console.WriteLine(config.smtpUser);
         Console.WriteLine(config.smtpPassword);
+        Console.WriteLine("----------Teste----------");
 
-        Email.SendEmail(config, "Body", "Subject");
+        StockMonitor.Monitor("IBM", 1320, 1370, config);
 
     }
 }

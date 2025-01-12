@@ -13,3 +13,7 @@
 /home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/StockAlertMonitor.pdb
 /home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/StockAlertMonitor.genruntimeconfig.cache
 /home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/ref/StockAlertMonitor.dll
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/StockAlertMonitor.csproj.AssemblyReference.cache
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/bin/Debug/net9.0/RestSharp.dll
+/home/rodrigo/Projects/stock-quote-alert/StockAlertMonitor/obj/Debug/net9.0/StockAle.4DC4E47F.Up2Date

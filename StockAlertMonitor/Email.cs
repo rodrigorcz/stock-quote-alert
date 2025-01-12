@@ -3,7 +3,7 @@ using System.Net;
 using System.Net.Mail;
 
 public static class Email{
-    public static void SendEmail(Configuration config, string body, string subject){
+    public static void SendEmail(Configuration config, string subject, string body){
         try{
             var client = new SmtpClient(config.smtpServer, config.smtpPort);
             client.Credentials = new NetworkCredential(config.smtpUser, config.smtpPassword);
@@ -19,7 +19,7 @@ public static class Email{
 
             Console.WriteLine($"Email enviado: {subject}");
         }
-        catch (Exception ex){
+        catch(Exception){
             Console.WriteLine("Erro ao enviar o Email!");
         }
     }
