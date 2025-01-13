@@ -61,3 +61,8 @@ dotnet build
 dotnet run ITUB 250.67 210.59
 ```
 
+Um exemplo de funcionamento para o ativo do Itau Unibanco:
+
+![Screenshot From 2025-01-13 15-43-52](https://github.com/user-attachments/assets/868d0697-7e20-4264-9e1e-699dcd58393e)
+
+
