@@ -43,6 +43,9 @@ Este sistema utiliza a Api da Alpha Vantage para monitoramento dos stocks, que p
 12|
 ```
 
+> [!NOTE]  
+> A chave de API gratuita da Alpha Vantage possui um limite diário de 25 requisições e possui uma lista de ativos que pode ser conferida no <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.alphavantage.co/query%3Ffunction%3DLISTING_STATUS%26apikey%3Ddemo&ved=2ahUKEwjuhvroqfOKAxVFqZUCHSnaNsEQFnoECBUQAQ&usg=AOvVaw2jcgxyGWwrti6Wv2kw_QWd">link</a>.
+
 Com isso é possivel rodar o programa a partir do executavel stock-alert-monitor.exe, informando o ativo a ser monitorado, o preço de venda e o preço de compra:
 
 
