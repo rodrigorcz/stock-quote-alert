@@ -43,7 +43,7 @@ Este sistema utiliza a Api da Alpha Vantage para monitoramento dos stocks, que p
 12|
 ```
 
-Com isso é possivel rodar o programa a partir do executavel 'stock-alert-monitor.exe':
+Com isso é possivel rodar o programa a partir do executavel stock-alert-monitor.exe, informando o ativo a ser monitorado, o preço de venda e o preço de compra:
 
 
 ```
