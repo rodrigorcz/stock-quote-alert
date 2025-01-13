@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockAlertMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06fa62c234ac241e89cf73d3bdfa1e4c44461aa1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d1fda720c13eaff726ce9c542ff646fb7d7ad58")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockAlertMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockAlertMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,7 @@
 {
-    "emailDestination": "digolua2@gmail.com",
+    "emailDestination": "destination@gmail.com",
     "smtpServer": "smtp.gmail.com",
     "smtpPort": 587,
-    "smtpUser": "rodrigo.rcastro27@gmail.com",
+    "smtpUser": "user.email@gmail.com",
     "smtpPassword": "-"
 }
