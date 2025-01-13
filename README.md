@@ -10,7 +10,7 @@ Este repositorio contém os códigos de um sistema de monitoramento de ativos qu
 Ex:
 
 ```
-$ stock-quote-alert.exe IBM 250.67 210.59
+$ stock-quote-alert.exe ITUB 250.67 210.59
 ```
 
 Toda vez que o ultimo preço de fechamento do ativo for maior que o preço de venda, um e-mail deve ser disparado aconselhando a venda. E toda vez que o preço de fechamento do ativo for menor que o preço de compra, um e-mail deve ser disparado aconselhando a compra.
@@ -50,7 +50,7 @@ Com isso é possivel rodar o programa a partir do executavel stock-alert-monitor
 
 
 ```
-$ stock-quote-alert.exe IBM 250.67 210.59
+$ stock-quote-alert.exe ITUB 250.67 210.59
 ```
 
 Outra maneira de rodar a aplicação é a execução dos seguintes comando dentro da pasta StockAlertMonitor/ :
@@ -58,6 +58,6 @@ Outra maneira de rodar a aplicação é a execução dos seguintes comando dentr
 ```
 dotnet restore
 dotnet build
-dotnet run
+dotnet run ITUB 250.67 210.59
 ```
 
