@@ -8,7 +8,7 @@ public static class StockApi{
     public static decimal GetPrice(string symbol){
 
         // parametros para requisição dos dados do Ativo
-        string apiKey = "D1LJTPUU7LYY7OS1"; // configure com a sua chave de API AlphaVantage : https://www.alphavantage.co
+        string apiKey = "..."; // configure com a sua chave de API AlphaVantage : https://www.alphavantage.co
         string interval = "5min"; 
         string QUERY_URL = $"https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol={symbol}&interval={interval}&apikey={apiKey}";
 
